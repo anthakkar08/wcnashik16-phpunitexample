@@ -1,0 +1,11 @@
+{
+    "name": "anthakkar08/wcnashik16-phpunitexample",
+    "description": "Basic PHPUnit Example For Demo at WCNashik 16",
+    "authors": [
+        {
+            "name": "Anand Thakkar",
+            "email": "anthakkar08@gmail.com"
+        }
+    ],
+    "require": {}
+}
